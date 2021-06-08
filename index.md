@@ -4,19 +4,22 @@
 
 ### Freshman Year (2019-2020) 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Legal Science Fiction (LJST-132)](/sample_page)
+- [Literature of Everyday (ENGL-119)](/sample_page)
+- [Progress (FYSE-101)](/sample_page)
+- [World Monuments (ARCH-153)](/sample_page)
+- [Introduction to Statistics via Modeling (STAT-135)](/sample_page)
 
 ---
 
 ### Sophomore Year (2020-2021)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Social Movements and Change (LJST-231)](http://example.com/)
+- [Introduction to Economics (ECON-111)](http://example.com/)
+- [Economics and Psychology (ECON-207)](http://example.com/)
+- [Computer Systems (COSC-171)](http://example.com/)
+- [Apocalyptic Literature (RELI-265)](http://example.com/)
+- [Probability and Computing (COSC-223)](http://example.com/)
 
 ---
 
