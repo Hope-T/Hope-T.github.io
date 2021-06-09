@@ -4,7 +4,9 @@
 
 ### Freshman Year (2019-2020) 
 
-- [Legal Science Fiction - LJST132](/sample_page)
+- [Legal Science Fiction - LJST132](/legal_science_fiction)
+- [Project 1 Title](/legal_science_fiction)
+ <img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Literature of Everyday (ENGL-119)](/sample_page)
 - [Progress (FYSE-101)](/sample_page)
 - [World Monuments (ARCH-153)](/sample_page)
