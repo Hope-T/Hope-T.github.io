@@ -5,12 +5,10 @@
 ### Freshman Year (2019-2020) 
 
 - [Legal Science Fiction - LJST132](/legal_science_fiction.md)
-- [Project 1 Title](/lsample_page.md)
- 
-- [Literature of Everyday (ENGL-119)](/sample_page)
-- [Progress (FYSE-101)](/sample_page)
-- [World Monuments (ARCH-153)](/sample_page)
-- [Introduction to Statistics via Modeling (STAT-135)](/sample_page)
+- [Literature of Everyday (ENGL-119)](/everyday_lit.md)
+- [Progress (FYSE-101)](/progress.md)
+- [World Monuments (ARCH-153)](/world_mon.pdf)
+- [Introduction to Statistics via Modeling (STAT-135)](/stat135.md)
 
 ---
 
