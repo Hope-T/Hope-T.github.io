@@ -7,7 +7,7 @@
 - [Legal Science Fiction - LJST132](/legal_science_fiction.md)
 - [Literature of Everyday (ENGL-119)](/everyday_lit.md)
 - [Progress (FYSE-101)](/progress.md)
-- [World Monuments (ARCH-153)](/world_mon.pdf)
+- [World Monuments (ARCH-153)](/world_mon.md)
 - [Introduction to Statistics via Modeling (STAT-135)](/stat135.md)
 
 ---
