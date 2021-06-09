@@ -4,7 +4,7 @@
 
 ### Freshman Year (2019-2020) 
 
-- [Legal Science Fiction - LJST132](/legal_science_fiction.md)
+- [Legal Science Fiction (LJST132)](/legal_science_fiction.md)
 - [Literature of Everyday (ENGL-119)](/everyday_lit.md)
 - [Progress (FYSE-101)](/progress.md)
 - [World Monuments (ARCH-153)](/world_mon.md)
@@ -14,12 +14,12 @@
 
 ### Sophomore Year (2020-2021)
 
-- [Social Movements and Change (LJST-231)](http://example.com/)
-- [Introduction to Economics (ECON-111)](http://example.com/)
-- [Economics and Psychology (ECON-207)](http://example.com/)
-- [Computer Systems (COSC-171)](http://example.com/)
-- [Apocalyptic Literature (RELI-265)](http://example.com/)
-- [Probability and Computing (COSC-223)](http://example.com/)
+- [Social Movements and Change (LJST-231)](/ljst231.md)
+- [Introduction to Economics (ECON-111)](/econ111.md)
+- [Economics and Psychology (ECON-207)](/econ207.md)
+- [Computer Systems (COSC-171)](/cosc171.md)
+- [Apocalyptic Literature (RELI-265)](/reli265.md)
+- [Probability and Computing (COSC-223)](/cosc223.md)
 
 ---
 
