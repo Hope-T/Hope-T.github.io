@@ -7,4 +7,3 @@
 - [Midterm Paper: Caught in One’s Head and Swept Away By Life: Water in "Mrs. Dalloway" by Virginia Woolf](/pdf/ENGL119_Midterm.pdf)
 - [Final Paper: Interwoven: Grief, Humanity, and Daily Routine in "A Single Man" by Christopher Isherwood](/pdf.ENGL119_Final.pdf)
 
-- [Response Paper](/pdf/LSF1.pdf)
