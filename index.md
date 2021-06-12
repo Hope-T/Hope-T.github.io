@@ -17,6 +17,7 @@
 - [Progress (FYSE-101)](/progress.md)
 - [World Monuments (ARCH-153)](/world_mon.md)
 - [Introduction to Statistics via Modeling (STAT-135)](/stat135.md)
+- [Summer Research: Natural Language Processing and Cybersecurity under Dr. Anyi Liu](/sum_1.md)
 
 ---
 
@@ -28,6 +29,7 @@
 - [Computer Systems (COSC-171)](/cosc171.md)
 - [Apocalyptic Literature (RELI-265)](/reli265.md)
 - [Probability and Computing (COSC-223)](/cosc223.md)
+- [Summer Internship: Software Engineering Intern at Health Sqyre](/sum_2.md)
 
 ---
 
