@@ -1,11 +1,20 @@
 title: Hope Tsai # your name (or website title) here
 logo: "/images/IMG_2028.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! I am a junior at Amherst College, double majoring in mathematics and computer science. 
+  On campus, I am involved in Amherst Christian Fellowship as a member and leader, Amherst STEM Network as a Reporter and Computer Science Department Correspondent, and both the Association for Women in Science and Women in Computer Science as a member.
+  I am also a student assistant for the initiative, AI in the Liberal Arts, and a mentor for the Meiklejohn program. More information can be found in my LinkedIn profile!
   <br><br>
-  Second description 
+  When I was younger, I planned on studying English; I loved how simple letters and punctuation, strung together, could impact me so much, and I wanted to share that with the rest of the world.
+  However, I soon realized that I am easily influenced by the content I consume, and that reading heavy literature all the time would not be ...
+  Moreover, as a low-income student, I learned that I place greater priority for solving practical problems than on learning about the world in an abstract manner.
+  How could someone enjoy a good book if they are too busy, living paycheck to paycheck?
+  All of this led me to computer science, which allows me to create something practically impactful out of simple letters and punctuation. 
+  Math, on the other hand, gives me the beauty and stories of English, while keeping me emotionally grounded.
+  However, I still love the humanities, and balance my courseload accordingly! I hope to be a bridge between the humanities and STEM, both in college and beyond.
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/hope-tsai-341853145/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
