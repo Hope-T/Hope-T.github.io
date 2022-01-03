@@ -12,26 +12,32 @@
 
 ### Freshman Year (2019-2020) 
 
-- [Legal Science Fiction (LJST132)](/legal_science_fiction.md)
-- [Literature of Everyday (ENGL-119)](/everyday_lit.md)
-- [Progress (FYSE-101)](/progress.md)
-- [World Monuments (ARCH-153)](/world_mon.md)
-- [Introduction to Statistics via Modeling (STAT-135)](/stat135.md)
-- [Summer Research: Natural Language Processing and Cybersecurity under Dr. Anyi Liu](/sum_1.md)
+- [Legal Science Fiction (LJST132)](/freshman/legal_science_fiction.md)
+- [Literature of Everyday (ENGL-119)](/freshman/everyday_lit.md)
+- [Progress (FYSE-101)](/freshman/progress.md)
+- [World Monuments (ARCH-153)](/freshman/world_mon.md)
+- [Introduction to Statistics via Modeling (STAT-135)](/freshman/stat135.md)
+- [Summer Research: Natural Language Processing and Cybersecurity under Dr. Anyi Liu](/freshman/sum_1.md)
 
 ---
 
 ### Sophomore Year (2020-2021)
 
-- [Social Movements and Change (LJST-231)](/ljst231.md)
-- [Introduction to Economics (ECON-111)](/econ111.md)
-- [Economics and Psychology (ECON-207)](/econ207.md)
-- [Computer Systems (COSC-171)](/cosc171.md)
-- [Apocalyptic Literature (RELI-265)](/reli265.md)
-- [Probability and Computing (COSC-223)](/cosc223.md)
-- [Summer Internship: Software Engineering Intern at Health Sqyre](/sum_2.md)
+- [Social Movements and Change (LJST-231)](/sophomore/ljst231.md)
+- [Introduction to Economics (ECON-111)](/sophomore/econ111.md)
+- [Economics and Psychology (ECON-207)](/sophomore/econ207.md)
+- [Computer Systems (COSC-171)](/sophomore/cosc171.md)
+- [Apocalyptic Literature (RELI-265)](/sophomore/reli265.md)
+- [Probability and Computing (COSC-223)](/sophomore/cosc223.md)
+- [Summer Internship: Software Engineering Intern at Health Sqyre](/sophomore/sum_2.md)
 
 ---
+
+### Junior Year (2021-2022)
+- [Groups, Rings, and Fields (MATH-350)](/junior/MATH350.md)
+- [Algorithms (COSC-311)](/junior/COSC311.md)
+- [The Affective Interface (POSC-262)](/junior/POSC262.md)
+- [Living with Inequality (EDUC-359)](/junior/EDUC359.md)
 
 
 
