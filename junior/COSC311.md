@@ -1,3 +1,3 @@
 ## Algorithms (Computer Science, course number 311)
 
-- [Notes](/pdf/COSC311.pdf)
+- [Notes](/pdf/junior/COSC311.pdf)
