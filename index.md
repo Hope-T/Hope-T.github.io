@@ -1,9 +1,9 @@
 ## About
- Though I had planned on studying English, I realized that I love, and need, the groundedness of these two subjects.
-  Just as in English, my initial major, I see the beauty and storytelling in every mathematical problem.
-  In computer science, I see the impact of a good solution to a practical problem; 
-  though the impact of a good story is undoubtedly important, I, as a low-income student, place greater priority on solving practical problems.
-  However, I still love the humanities, and balance my courseload accordingly! I hope to be a bridge between the humanities and STEM, both in college and beyond.
+ Though I had planned on studying English, I realized that I love the simple groundedness and beauty of computer science and mathematics.
+ At the same time, I realized that the books I most enjoyed reading were not the ones pored over in higher education. 
+ Now, I see the beauty and storytelling in every mathematical problem.
+ In computer science, I see the impact of a good solution to a practical problem.
+ However, I still love the humanities, and balance my courseload accordingly! I hope to be a bridge between the humanities and STEM, both in college and beyond.
   
 
 ## Portfolio
