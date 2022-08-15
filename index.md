@@ -38,6 +38,7 @@
 - [Algorithms (COSC-311)](/junior/COSC311.md)
 - [The Affective Interface (POSC-262)](/junior/POSC262.md)
 - [Living with Inequality (EDUC-359)](/junior/EDUC359.md)
+- [Study Abroad Semester](/junior/study_abroad.md)
 
 
 
